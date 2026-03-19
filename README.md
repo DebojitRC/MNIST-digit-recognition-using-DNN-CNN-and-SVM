@@ -74,4 +74,3 @@ Further improvements can be achieved by increasing model depth, tuning hyperpara
 
 * Y. LeCun, C. Cortes, and C. J. C. Burges, “The MNIST Database of Handwritten Digits,” 1998. (http://yann.lecun.com/exdb/mnist/)
 * J. Brownlee, “How to Develop a Convolutional Neural Network for MNIST Handwritten Digit Classification,” Machine Learning Mastery, 2019. (https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/)
-* J. Brownlee, “How to Develop a Convolutional Neural Network for MNIST Handwritten Digit Classification,” Machine Learning Mastery, 2019. (https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/)
