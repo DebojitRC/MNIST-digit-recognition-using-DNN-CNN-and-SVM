@@ -52,3 +52,23 @@ In addition to the primary models, standard preprocessing techniques such as dat
 
 ### Results
 
+The performance of the three models was evaluated on the MNIST test dataset. The Support Vector Machine (SVM) achieved an accuracy of 91.7%, while the Deep Neural Network (DNN) improved the performance to 97.31%. The Convolutional Neural Network (CNN) produced the highest accuracy of 98.86%, demonstrating superior classification capability among the evaluated models.
+
+### Visualizations
+
+Confusion matrices were used to visualize the classification performance of each model. The SVM model exhibited noticeable misclassifications across several digit classes. The DNN model showed improved classification with fewer errors. The CNN model produced an almost perfectly diagonal confusion matrix, indicating minimal misclassification and highly accurate predictions.
+
+### Performance Comparison
+
+A comparative evaluation of the models indicates a clear improvement in performance from SVM to DNN to CNN. While SVM provides a reasonable baseline, it is limited in handling complex image patterns. The DNN improves classification by learning nonlinear relationships in the data. However, the CNN outperforms both models by effectively capturing spatial features inherent in image data, leading to the highest accuracy.
+
+### Analysis
+
+The results highlight the importance of model architecture in image classification tasks. SVM, being a traditional machine learning method, operates on flattened input and lacks the ability to capture spatial relationships, resulting in higher misclassification rates. The DNN improves performance by learning hierarchical representations, but still treats images as one-dimensional vectors. In contrast, CNN leverages convolutional and pooling operations to extract spatial features such as edges and shapes, significantly reducing errors. Misclassifications observed in SVM and DNN are largely resolved in CNN, particularly for visually similar digits.
+
+### Improvements
+
+Further improvements can be achieved by increasing model depth, tuning hyperparameters, or applying data augmentation techniques. Additionally, the use of advanced architectures or regularization methods may further enhance generalization performance. However, such extensions were not considered in this study in order to maintain a fair and consistent comparison between models.
+
+## References
+
