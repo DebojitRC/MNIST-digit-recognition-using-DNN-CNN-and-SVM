@@ -6,6 +6,8 @@ Practical Application of Machine Learning Algorithm
 **Tools Used:** Python<br>
 **Dataset Source:** [Machine Learning Mastery] (https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/)
 
+> This project was independently developed as a self-initiated freelance project to explore and compare Machine Learning and Deep Learning models.
+
 ---
 
 ## Statement
